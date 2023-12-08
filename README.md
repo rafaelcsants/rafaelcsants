@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi 👋, I'm Rafael Santos
 
-<!--
-**rafaelcsants/rafaelcsants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer who enjoys building new projects and learning from them. Secretly, I loved Back-end development even before considering working on Front-end, which was one of the things I always avoided during my college years. Now, I have fallen in love with it 🙃
 
-Here are some ideas to get you started:
+I have experience in JavaScript, ReactJS, TypeScript, and NextJS and i had the opportunity to work on a couple of international projects using these technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on adopting best practices, writing clean code, and mastering the tools I use. I'm always eager to learn and apply my skills to create effective web applications.
+
+## Technologies/Frameworks and Future Work
+
+- 💻: ReactJS, NextJS, TailwindCSS, TypeScript, tRPC, Prisma, SQL, Git, JavaScript, HTML5, CSS3.
+
+- 🔮: Currently, I am working on my portfolio, exploring and practicing more advanced topics in the newer versions of the frameworks I have been using. In my free time, I am learning Node.JS and Express. 🚧
+
+## More
+
+Welcome! Feel free to message me and connect if you liked what you've seen so far, and let's collaborate on something amazing together!
