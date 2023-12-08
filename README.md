@@ -10,7 +10,7 @@ My focus is on adopting best practices, writing clean code, and mastering the to
 
 - 💻: ReactJS, NextJS, TailwindCSS, TypeScript, tRPC, Prisma, SQL, Git, JavaScript, HTML5, CSS3.
 
-- 🔮: Currently, I am working on my portfolio, exploring and practicing more advanced topics in the newer versions of the frameworks I have been using. In my free time, I am learning Node.JS and Express. 🚧
+- 🔮: Currently exploring and practicing more advanced topics in the newer versions of the frameworks I have been using. In my free time, I am learning Node.JS and Express. 🚧
 
 ## More
 
